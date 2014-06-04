@@ -1,0 +1,704 @@
+[{ "name": "New York",
+    "code": "US-NY",
+    "population": 8405837
+},
+{
+    "name": "Los Angeles",
+    "code": "US-CA",
+    "population": 3884307
+},
+{
+    "name": "Chicago",
+    "code": "US-IL",
+    "population": 2718782
+},
+{
+    "name": "Houston",
+    "code": "US-TX",
+    "population": 2195914
+},
+{
+    "name": "Philadelphia",
+    "code": "US-PA",
+    "population": 1553165
+},
+{
+    "name": "Phoenix",
+    "code": "US-AZ",
+    "population": 1513367
+},
+{
+    "name": "San Antonio",
+    "code": "US-TX",
+    "population": 1409019
+},
+{
+    "name": "San Diego",
+    "code": "US-CA",
+    "population": 1355896
+},
+{
+    "name": "Dallas",
+    "code": "US-TX",
+    "population": 1257676
+},
+{
+    "name": "San Jose",
+    "code": "US-CA",
+    "population": 998537
+},
+{
+    "name": "Austin",
+    "code": "US-TX",
+    "population": 885400
+},
+{
+    "name": "Indianapolis",
+    "code": "US-IN",
+    "population": 843393
+},
+{
+    "name": "Jacksonville",
+    "code": "US-FL",
+    "population": 842583
+},
+{
+    "name": "San Francisco",
+    "code": "US-CA",
+    "population": 837442
+},
+{
+    "name": "Columbus",
+    "code": "US-OH",
+    "population": 822553
+},
+{
+    "name": "Charlotte",
+    "code": "US-NC",
+    "population": 792862
+},
+{
+    "name": "Fort Worth",
+    "code": "US-TX",
+    "population": 792727
+},
+{
+    "name": "Detroit",
+    "code": "US-MI",
+    "population": 688701
+},
+{
+    "name": "El Paso",
+    "code": "US-TX",
+    "population": 674433
+},
+{
+    "name": "Memphis",
+    "code": "US-TN",
+    "population": 653450
+},
+{
+    "name": "Seattle",
+    "code": "US-WA",
+    "population": 652405
+},
+{
+    "name": "Denver",
+    "code": "US-CO",
+    "population": 649495
+},
+{
+    "name": "Washington",
+    "code": "US-DC",
+    "population": 646449
+},
+{
+    "name": "Boston",
+    "code": "US-MA",
+    "population": 645966
+},
+{
+    "name": "Nashville",
+    "code": "US-TN",
+    "population": 634464
+},
+{
+    "name": "Baltimore",
+    "code": "US-MD",
+    "population": 622104
+},
+{
+    "name": "Oklahoma City",
+    "code": "US-OK",
+    "population": 610613
+},
+{
+    "name": "Louisville",
+    "code": "US-KY",
+    "population": 609893
+},
+{
+    "name": "Portland",
+    "code": "US-OR",
+    "population": 609456
+},
+{
+    "name": "Las Vegas",
+    "code": "US-NV",
+    "population": 603488
+},
+{
+    "name": "Milwaukee",
+    "code": "Wisconsin",
+    "population": 599164
+},
+{
+    "name": "Albuquerque",
+    "code": "US-NM",
+    "population": 556495
+},
+{
+    "name": "Tucson",
+    "code": "US-AZ",
+    "population": 526116
+},
+{
+    "name": "Fresno",
+    "code": "US-CA",
+    "population": 509924
+},
+{
+    "name": "Sacramento",
+    "code": "US-CA",
+    "population": 479686
+},
+{
+    "name": "Long Beach",
+    "code": "US-CA",
+    "population": 469428
+},
+{
+    "name": "Kansas City",
+    "code": "US-MO",
+    "population": 467007
+},
+{
+    "name": "Mesa",
+    "code": "US-AZ",
+    "population": 457587
+},
+{
+    "name": "Virginia Beach",
+    "code": "US-VA",
+    "population": 448479
+},
+{
+    "name": "Atlanta",
+    "code": "US-GA",
+    "population": 447841
+},
+{
+    "name": "Colorado Springs",
+    "code": "US-CO",
+    "population": 439886
+},
+{
+    "name": "Omaha",
+    "code": "US-NE",
+    "population": 434353
+},
+{
+    "name": "Raleigh",
+    "code": "US-NC",
+    "population": 431746
+},
+{
+    "name": "Miami",
+    "code": "US-FL",
+    "population": 417650
+},
+{
+    "name": "Oakland",
+    "code": "US-CA",
+    "population": 406253
+},
+{
+    "name": "Minneapolis",
+    "code": "US-MN",
+    "population": 400070
+},
+{
+    "name": "Tulsa",
+    "code": "US-OK",
+    "population": 398121
+},
+{
+    "name": "Cleveland",
+    "code": "US-OH",
+    "population": 390113
+},
+{
+    "name": "Wichita",
+    "code": "US-KS",
+    "population": 386552
+},
+{
+    "name": "Arlington",
+    "code": "US-TX",
+    "population": 379577
+},
+{
+    "name": "New Orleans",
+    "code": "US-LA",
+    "population": 378715
+},
+{
+    "name": "Bakersfield",
+    "code": "US-CA",
+    "population": 363630
+},
+{
+    "name": "Tampa",
+    "code": "US-FL",
+    "population": 352957
+},
+{
+    "name": "Honolulu",
+    "code": "US-HI",
+    "population": 347884
+},
+{
+    "name": "Aurora",
+    "code": "US-CO",
+    "population": 345803
+},
+{
+    "name": "Anaheim",
+    "code": "US-CA",
+    "population": 345012
+},
+{
+    "name": "Santa Ana",
+    "code": "US-CA",
+    "population": 334227
+},
+{
+    "name": "St. Louis",
+    "code": "US-MO",
+    "population": 318416
+},
+{
+    "name": "Riverside",
+    "code": "US-CA",
+    "population": 316619
+},
+{
+    "name": "Corpus Christi",
+    "code": "US-TX",
+    "population": 316381
+},
+{
+    "name": "Lexington",
+    "code": "US-KY",
+    "population": 308428
+},
+{
+    "name": "Pittsburgh",
+    "code": "US-PA",
+    "population": 305841
+},
+{
+    "name": "Anchorage",
+    "code": "US-AK",
+    "population": 300950
+},
+{
+    "name": "Stockton",
+    "code": "US-CA",
+    "population": 298118
+},
+{
+    "name": "Cincinnati",
+    "code": "US-OH",
+    "population": 297517
+},
+{
+    "name": "Saint Paul",
+    "code": "US-MN",
+    "population": 294873
+},
+{
+    "name": "Toledo",
+    "code": "US-OH",
+    "population": 282313
+},
+{
+    "name": "Greensboro",
+    "code": "US-NC",
+    "population": 279639
+},
+{
+    "name": "Newark",
+    "code": "US-NJ",
+    "population": 278427
+},
+{
+    "name": "Plano",
+    "code": "US-TX",
+    "population": 274409
+},
+{
+    "name": "Henderson",
+    "code": "US-NV",
+    "population": 270811
+},
+{
+    "name": "Lincoln",
+    "code": "US-NE",
+    "population": 268738
+},
+{
+    "name": "Buffalo",
+    "code": "US-NY",
+    "population": 258959
+},
+{
+    "name": "Jersey City",
+    "code": "US-NJ",
+    "population": 257342
+},
+{
+    "name": "Chula Vista",
+    "code": "US-CA",
+    "population": 256780
+},
+{
+    "name": "Fort Wayne",
+    "code": "US-IN",
+    "population": 256496
+},
+{
+    "name": "Orlando",
+    "code": "US-FL",
+    "population": 255483
+},
+{
+    "name": "St. Petersburg",
+    "code": "US-FL",
+    "population": 249688
+},
+{
+    "name": "Chandler",
+    "code": "US-AZ",
+    "population": 249146
+},
+{
+    "name": "Laredo",
+    "code": "US-TX",
+    "population": 248142
+},
+{
+    "name": "Norfolk",
+    "code": "US-VA",
+    "population": 246139
+},
+{
+    "name": "Durham",
+    "code": "US-NC",
+    "population": 245475
+},
+{
+    "name": "Madison",
+    "code": "Wisconsin",
+    "population": 243344
+},
+{
+    "name": "Lubbock",
+    "code": "US-TX",
+    "population": 239538
+},
+{
+    "name": "Irvine",
+    "code": "US-CA",
+    "population": 236716
+},
+{
+    "name": "Winston–Salem",
+    "code": "US-NC",
+    "population": 236441
+},
+{
+    "name": "Glendale",
+    "code": "US-AZ",
+    "population": 234632
+},
+{
+    "name": "Garland",
+    "code": "US-TX",
+    "population": 234566
+},
+{
+    "name": "Hialeah",
+    "code": "US-FL",
+    "population": 233394
+},
+{
+    "name": "Reno",
+    "code": "US-NV",
+    "population": 233294
+},
+{
+    "name": "Chesapeake",
+    "code": "US-VA",
+    "population": 230571
+},
+{
+    "name": "Gilbert",
+    "code": "US-AZ",
+    "population": 229972
+},
+{
+    "name": "Baton Rouge",
+    "code": "US-LA",
+    "population": 229426
+},
+{
+    "name": "Irving",
+    "code": "US-TX",
+    "population": 228653
+},
+{
+    "name": "Scottsdale",
+    "code": "US-AZ",
+    "population": 226918
+},
+{
+    "name": "North Las Vegas",
+    "code": "US-NV",
+    "population": 226877
+},
+{
+    "name": "Fremont",
+    "code": "US-CA",
+    "population": 224922
+},
+{
+    "name": "Boise",
+    "code": "US-ID",
+    "population": 214237
+},
+{
+    "name": "Richmond",
+    "code": "US-VA",
+    "population": 214114
+},
+{
+    "name": "San Bernardino",
+    "code": "US-CA",
+    "population": 213708
+},
+{
+    "name": "Birmingham",
+    "code": "US-AL",
+    "population": 212113
+},
+{
+    "name": "Spokane",
+    "code": "US-WA",
+    "population": 210721
+},
+{
+    "name": "Rochester",
+    "code": "US-NY",
+    "population": 210358
+},
+{
+    "name": "Des Moines",
+    "code": "US-IA",
+    "population": 207510
+},
+{
+    "name": "Modesto",
+    "code": "US-CA",
+    "population": 204933
+},
+{
+    "name": "Fayetteville",
+    "code": "US-NC",
+    "population": 204408
+},
+{
+    "name": "Tacoma",
+    "code": "US-WA",
+    "population": 203446
+},
+{
+    "name": "Oxnard",
+    "code": "US-CA",
+    "population": 203007
+},
+{
+    "name": "Fontana",
+    "code": "US-CA",
+    "population": 203003
+},
+{
+    "name": "Columbus",
+    "code": "US-GA",
+    "population": 202824
+},
+{
+    "name": "Montgomery",
+    "code": "US-AL",
+    "population": 201332
+},
+{
+    "name": "Moreno Valley",
+    "code": "US-CA",
+    "population": 201175
+},
+{
+    "name": "Shreveport",
+    "code": "US-LA",
+    "population": 200327
+},
+{
+    "name": "Aurora",
+    "code": "US-IL",
+    "population": 199963
+},
+{
+    "name": "Yonkers",
+    "code": "US-NY",
+    "population": 199766
+},
+{
+    "name": "Akron",
+    "code": "US-OH",
+    "population": 198100
+},
+{
+    "name": "Huntington Beach",
+    "code": "US-CA",
+    "population": 197575
+},
+{
+    "name": "Little Rock",
+    "code": "US-AR",
+    "population": 197357
+},
+{
+    "name": "Augusta",
+    "code": "US-GA",
+    "population": 197350
+},
+{
+    "name": "Amarillo",
+    "code": "US-TX",
+    "population": 196429
+},
+{
+    "name": "Glendale",
+    "code": "US-CA",
+    "population": 196021
+},
+{
+    "name": "Mobile",
+    "code": "US-AL",
+    "population": 194899
+},
+{
+    "name": "Grand Rapids",
+    "code": "US-MI",
+    "population": 192294
+},
+{
+    "name": "Salt Lake City",
+    "code": "US-UT",
+    "population": 191180
+},
+{
+    "name": "Tallahassee",
+    "code": "US-FL",
+    "population": 186411
+},
+{
+    "name": "Huntsville",
+    "code": "US-AL",
+    "population": 186254
+},
+{
+    "name": "Grand Prairie",
+    "code": "US-TX",
+    "population": 183372
+},
+{
+    "name": "Knoxville",
+    "code": "US-TN",
+    "population": 183270
+},
+{
+    "name": "Worcester",
+    "code": "US-MA",
+    "population": 182544
+},
+{
+    "name": "Newport News",
+    "code": "US-VA",
+    "population": 182020
+},
+{
+    "name": "Brownsville",
+    "code": "US-TX",
+    "population": 181860
+},
+{
+    "name": "Overland Park",
+    "code": "US-KS",
+    "population": 181260
+},
+{
+    "name": "Santa Clarita",
+    "code": "US-CA",
+    "population": 179590
+},
+{
+    "name": "Providence",
+    "code": "US-RI",
+    "population": 177994
+},
+{
+    "name": "Garden Grove",
+    "code": "US-CA",
+    "population": 175140
+},
+{
+    "name": "Chattanooga",
+    "code": "US-TN",
+    "population": 173366
+},
+{
+    "name": "Oceanside",
+    "code": "US-CA",
+    "population": 172794
+},
+{
+    "name": "Jackson",
+    "code": "US-MS",
+    "population": 172638
+},
+{
+    "name": "Fort Lauderdale",
+    "code": "US-FL",
+    "population": 172389
+},
+{
+    "name": "Santa Rosa",
+    "code": "US-CA",
+    "population": 171990
+},
+{
+    "name": "Rancho Cucamonga",
+    "code": "US-CA",
+    "population": 171386
+}]
