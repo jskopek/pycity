@@ -1,1 +1,3 @@
-include pycity/databases/*.json README.md
+include README.md
+recursive-include pycity *
+global-exclude pycity *.pyc
