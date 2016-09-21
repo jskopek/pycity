@@ -2,6 +2,26 @@
     "code": "US-NY",
     "population": 8405837
 },
+{ "name": "Manhattan",
+    "code": "US-NY",
+    "population": 1626159
+},
+{ "name": "Bronx",
+    "code": "US-NY",
+    "population": 1418733
+},
+{ "name": "Brooklyn",
+    "code": "US-NY",
+    "population": 2592149
+},
+{ "name": "Queens",
+    "code": "US-NY",
+    "population": 2296175
+},
+{ "name": "Staten Island",
+    "code": "US-NY",
+    "population": 472621
+},
 {
     "name": "Los Angeles",
     "code": "US-CA",
